@@ -85,7 +85,7 @@ mkdir public
 sudo service apache2 restart
 ```
 
-
+#
 ## Comandos que precisam ser executados uma unica vez no servidor
 
 ```
